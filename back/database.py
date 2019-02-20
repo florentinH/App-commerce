@@ -1,6 +1,6 @@
 import MySQLdb
 
-db = MySQLdb.connect("localhost", "root", "PreleHauton-14", "test_flo")
+db = MySQLdb.connect("localhost", "root", "Password-1234", "test_flo")
 
 cursor = db.cursor()
 global resultsExportEtudiants
